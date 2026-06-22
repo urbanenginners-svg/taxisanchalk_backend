@@ -1,0 +1,16 @@
+export const prefixes = {
+  User: 'user',
+  Role: 'role',
+  Permission: 'perm',
+  File: 'file',
+  TeamDriver: 'team-driver',
+  Vehicle: 'vehicle',
+  Booking: 'booking',
+  BookingRequest: 'booking-req',
+  CommissionPayment: 'comm-pay',
+  TaxiAvailability: 'taxi-avail',
+  TaxiEnquiry: 'taxi-enq',
+  ChatConversation: 'chat-conv',
+  ChatMessage: 'chat-msg',
+  Ticket: 'ticket',
+};

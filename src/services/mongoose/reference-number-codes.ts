@@ -1,0 +1,16 @@
+export const referenceNumberCodes: Record<string, string> = {
+  User: 'USR',
+  Role: 'ROL',
+  Permission: 'PRM',
+  File: 'FIL',
+  TeamDriver: 'TDRV',
+  Vehicle: 'VEH',
+  Booking: 'BKG',
+  BookingRequest: 'BREQ',
+  CommissionPayment: 'CPAY',
+  TaxiAvailability: 'TAVL',
+  TaxiEnquiry: 'TENQ',
+  ChatConversation: 'CHAT',
+  ChatMessage: 'CMSG',
+  Ticket: 'TKT',
+};

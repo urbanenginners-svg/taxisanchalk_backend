@@ -1,0 +1,16 @@
+export const resource = {
+  User: 'user',
+  Role: 'role',
+  Permission: 'permission',
+  Me: 'me',
+  File: 'file',
+  TeamDriver: 'team-driver',
+  Vehicle: 'vehicle',
+  Booking: 'booking',
+  BookingRequest: 'booking-request',
+  CommissionPayment: 'commission-payment',
+  TaxiAvailability: 'taxi-availability',
+  TaxiEnquiry: 'taxi-enquiry',
+  Chat: 'chat',
+  Ticket: 'ticket',
+};
